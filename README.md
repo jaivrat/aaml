@@ -6,4 +6,4 @@ README File
 
 `conda activate aaml`
 
-`python -m ipykernel install --user --name=aaml
+`python -m ipykernel install --user --name=aaml`
