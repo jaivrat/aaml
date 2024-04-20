@@ -7,3 +7,10 @@ README File
 `conda activate aaml`
 
 `python -m ipykernel install --user --name=aaml`
+
+
+
+Jupyter automcomplte:
+`pip install jupyter_contrib_nbextensions`
+`jupyter contrib nbextension install --user`
+`jupyter nbextension enable varInspector/main`
