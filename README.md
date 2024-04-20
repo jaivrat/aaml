@@ -10,7 +10,7 @@ README File
 
 
 
-#### Jupyter automcomplte:
+#### Jupyter automcomplete:
 
 `pip install jupyter_contrib_nbextensions`
 
