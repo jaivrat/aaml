@@ -22,6 +22,8 @@ dependencies:
   - pip:
     # For jupyter notebook autocomplete
     - jupyter_contrib_nbextensions
+    # extra: jai
+    - ray
     - absl-py==0.9.0
     - astunparse==1.6.3
     - attrs==19.3.0
